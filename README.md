@@ -11,11 +11,22 @@ Um aplicativo simples de Gerenciamento de Tarefas desenvolvido com React.
 
 ## 📘 Sobre o projeto
 
-Este projeto foi criado com o objetivo de praticar conceitos fundamentais do React, como componentes, props, estado (useState) e renderização condicional. É uma aplicação leve e funcional que pode ser expandida conforme suas necessidades.
+Este projeto foi criado com o objetivo de praticar conceitos fundamentais do React, como componentes, props, estado (useState) e renderização condicional. 
+
 
 ## 📦 Instalação
 
-Clone o repositório:
+**Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/rafael-santos201/gerenciador_de_tarefas
+
+
+**Instale as dependências:**
+
+cd nome-do-repositorio
+npm install
+
+**Inicie o projeto:**
+
+npm run dev
