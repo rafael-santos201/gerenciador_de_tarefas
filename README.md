@@ -18,7 +18,7 @@ Este projeto foi criado com o objetivo de praticar conceitos fundamentais do Rea
 
 **Clone o repositório:**
 
-```bash
+```bash```
 git clone https://github.com/rafael-santos201/gerenciador_de_tarefas
 
 
